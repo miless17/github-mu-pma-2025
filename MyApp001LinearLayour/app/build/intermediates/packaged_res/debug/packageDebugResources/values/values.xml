@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="btnDeleteColor">#9E2E2E</color>
+    <color name="btnSaveColor">#46B34A</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyApp001LinearLayour</string>
+    <style name="Base.Theme.MyApp001LinearLayour" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApp001LinearLayour" parent="Base.Theme.MyApp001LinearLayour"/>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PoznejCesko</string>
+    <string name="lock_status">Stav zámku</string>
+    <string name="title_activity_quiz">Kvíz</string>
+</resources>

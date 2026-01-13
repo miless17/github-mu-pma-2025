@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.VanocniApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/xmas_green</item>
+        <item name="colorPrimaryVariant">@color/xmas_green_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/xmas_red</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:windowBackground">@color/xmas_bg</item>
+    </style>
+
+    <style name="Theme.VanocniApp" parent="Base.Theme.VanocniApp" />
+</resources>
